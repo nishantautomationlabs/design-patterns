@@ -1,4 +1,4 @@
-package com.nal.structuralpattern.proxypattern;
+package com.nal.structuralpattern.proxypattern.example1;
 
 import java.util.List;
 
