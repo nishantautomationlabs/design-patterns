@@ -1,4 +1,4 @@
-package com.nal.structuralpattern.decoratorpattern;
+package com.nal.structuralpattern.decoratorpattern.example1;
 
 /**
  * Created by nishant on 17/11/18.
